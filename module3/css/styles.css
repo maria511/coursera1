@@ -1,0 +1,68 @@
+body {
+	font-size: 18px;
+	font-family: 'Oxygen', sans-serif;
+	background-color:	#FAF9D0 ;
+}
+#header-nav{
+	background-color: #ff3d3d;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand h1 {
+	text-shadow: 1px 1px 1px #222;
+	margin: 0 auto;
+	/*margin-top: 0;*/
+	/*margin-bottom: 0;*/
+	/*margin-left: -75px;*/
+	/*float: left;*/
+	line-height: .5;
+	font-weight: bold;
+
+
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header span.icon-bar{
+	border: 1px solid black;
+}
+#section{
+	height: 1000px;
+	/*border: 1px solid black;*/
+	padding: 0px;
+	overflow: hidden;
+}
+#sometext {
+padding: 10px;
+width: 100%;
+overflow: hidden;
+}
+
+#menu{
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 15px;
+height: 1000px;
+background-color:  #F2AF8E;
+}
+#titleC{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	font-size: 20px;
+	text-shadow: 1px 1px 1px #222;
+}
+
+#ourmenu{
+	margin-top: 10px;
+	margin-bottom: 40px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+
+
+}
+
+#nav-list 
+{font-size: 18px;
+	font-weight: bold;
+
+}
